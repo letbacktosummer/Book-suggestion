@@ -35,6 +35,12 @@ h5{
     font-style: normal;
 }
 
+h1{
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 h6{
     font-family: "Mitr", sans-serif;
     font-weight: 400;
@@ -59,3 +65,78 @@ li{
     font-style: normal;
 }
 
+
+.button1 {
+    position: relative;
+    width : 40px;  /* ปรับขนาดปุ่ม */
+    height : 40px; /* ปรับขนาดปุ่ม */
+    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
+    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
+    border: none; /* ไม่มีกรอบ */
+    position: absolute; /* ใช้ตำแหน่ง absolute */
+    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
+    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
+   
+   } /* Green */
+
+carousel-control-prev {
+    left: 50px; /* ปรับตำแหน่งปุ่ม Previous */
+    
+}
+
+carousel-control-next {
+    right: 50px; /* ปรับตำแหน่งปุ่ม Next */
+    
+}
+
+.button2 {
+    position: relative;
+    width : 40px;  /* ปรับขนาดปุ่ม */
+    height : 40px; /* ปรับขนาดปุ่ม */
+    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
+    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
+    border: none; /* ไม่มีกรอบ */
+    position: absolute; /* ใช้ตำแหน่ง absolute */
+    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
+    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
+   
+   } /* Green */
+
+   .button3 {
+    position: relative;
+    width : 40px;  /* ปรับขนาดปุ่ม */
+    height : 40px; /* ปรับขนาดปุ่ม */
+    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
+    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
+    border: none; /* ไม่มีกรอบ */
+    position: absolute; /* ใช้ตำแหน่ง absolute */
+    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
+    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
+   
+   } /* Green */
+
+   .button4 {
+    position: relative;
+    width : 40px;  /* ปรับขนาดปุ่ม */
+    height : 40px; /* ปรับขนาดปุ่ม */
+    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
+    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
+    border: none; /* ไม่มีกรอบ */
+    position: absolute; /* ใช้ตำแหน่ง absolute */
+    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
+    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
+   
+   } /* Green */
+
+   .button5 {
+    position: relative;
+    width : 40px;  /* ปรับขนาดปุ่ม */
+    height : 40px; /* ปรับขนาดปุ่ม */
+    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
+    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
+    border: none; /* ไม่มีกรอบ */
+    position: absolute; /* ใช้ตำแหน่ง absolute */
+    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
+    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
+   
+   } /* Green */
