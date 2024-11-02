@@ -89,54 +89,18 @@ carousel-control-next {
     
 }
 
-.button2 {
-    position: relative;
-    width : 40px;  /* ปรับขนาดปุ่ม */
-    height : 40px; /* ปรับขนาดปุ่ม */
-    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
-    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
-    border: none; /* ไม่มีกรอบ */
-    position: absolute; /* ใช้ตำแหน่ง absolute */
-    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
-    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
-   
-   } /* Green */
+.position-next {
+    right: 20%;
+    top: 50%;
+    bottom: 200px;
+    margin-right: -20px;
 
-   .button3 {
-    position: relative;
-    width : 40px;  /* ปรับขนาดปุ่ม */
-    height : 40px; /* ปรับขนาดปุ่ม */
-    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
-    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
-    border: none; /* ไม่มีกรอบ */
-    position: absolute; /* ใช้ตำแหน่ง absolute */
-    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
-    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
-   
-   } /* Green */
+}
 
-   .button4 {
-    position: relative;
-    width : 40px;  /* ปรับขนาดปุ่ม */
-    height : 40px; /* ปรับขนาดปุ่ม */
-    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
-    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
-    border: none; /* ไม่มีกรอบ */
-    position: absolute; /* ใช้ตำแหน่ง absolute */
-    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
-    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
-   
-   } /* Green */
+.position-prev {
+    left: 20%;
+    top: 50%;
+    bottom: 200px;
+    margin-right: -20px;
 
-   .button5 {
-    position: relative;
-    width : 40px;  /* ปรับขนาดปุ่ม */
-    height : 40px; /* ปรับขนาดปุ่ม */
-    background-color: rgba(158, 183, 168, 0.5); /* สีพื้นหลังของปุ่ม */
-    border-radius: 50%; /* ทำให้ปุ่มเป็นวงกลม */
-    border: none; /* ไม่มีกรอบ */
-    position: absolute; /* ใช้ตำแหน่ง absolute */
-    top: 50%; /* จัดให้อยู่กลางแนวตั้ง */
-    transform: translateY(-50%); /* ช่วยให้ปุ่มอยู่กลาง */
-   
-   } /* Green */
+}
